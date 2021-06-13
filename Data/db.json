@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "Mathematics",
+      "id": 1,
+      "author": "Daya",
+      "body": "Mathematics is everywhere in your day life starting your day with alarm and ending your day with songsor etc."
+    },
+    {
+      "title": "Physics",
+      "id": 2,
+      "author": "Leenu",
+      "body": "Physics is very important since it makes your life easy if you know physics and improves the world by knowing the different concepts"
+    },
+    {
+      "title": "Programming",
+      "id": 3,
+      "author": "Daya",
+      "body": "Now a days programming is ruling entire world and it is making the human's life easy for communication,travelling,and many other things."
+    },
+    {
+      "title": "React",
+      "body": "React js is used for front end web developing",
+      "author": "Leenu",
+      "id": 6
+    }
+  ]
+}
